@@ -1,8 +1,10 @@
 ## Ciao! 👋 I'm Fabio
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=fabiograsso&style=flat-square&abbreviated=true3" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=fabiograsso&style=flat-square&abbreviated=true" />
+    <img src="https://api.netlify.com/api/v1/badges/fa2a7a48-fde2-4c92-8b05-8e14eebe15eb/deploy-status" />
+  
+</p> 
 <p>
   <picture>
     <source
