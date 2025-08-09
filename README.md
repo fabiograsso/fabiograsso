@@ -3,8 +3,11 @@
 <p>
   <a href="https://github.com/fabiograsso/" style="text-decoration:none;">
     <img src="https://komarev.com/ghpvc/?username=fabiograsso&style=flat-square&abbreviated=true" />
-  </a>
+  </a>  
 </p> 
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O81JB4FK)
+
 <p>
   <picture>
     <source
