@@ -2,9 +2,9 @@
 
 ### Visit my blog at [iam.fabiograsso.net](https://iam.fabiograsso.net)
 
-<p> </p>
+<p> &nbsp; </p>
 <hr />
-<p> </p>
+<p> &nbsp; </p>
 <p>
   <a href="https://github.com/fabiograsso/" style="text-decoration:none;">
     <img src="https://komarev.com/ghpvc/?username=fabiograsso&style=flat-square&abbreviated=true" />
