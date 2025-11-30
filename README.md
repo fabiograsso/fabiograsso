@@ -37,6 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiograsso&layout=compact&show_icons=true" />
   </picture>
 </p>
+<meta name="google-site-verification" content="wz-2XjoejSIuza3rYboEzrWD4leAgwLZ-29gmNPogCM" />
 <!--
 **fabiograsso/fabiograsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
