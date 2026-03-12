@@ -52,6 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<meta name="google-site-verification" content="wz-2XjoejSIuza3rYboEzrWD4leAgwLZ-29gmNPogCM" />
+ 
