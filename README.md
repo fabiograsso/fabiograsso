@@ -1,6 +1,7 @@
 ## Hi, I'm Fabio Grasso 👋
 
-Solutions Engineer at **[Okta](https://www.okta.com)**, specializing in **IAM / CIAM**, Zero Trust, AI Security, and Identity Governance. 
+Solutions Engineer at **[Okta](https://www.okta.com)**, specializing in **IAM / CIAM**, Zero Trust, AI Security, and Identity Governance.
+
 I work between 🇫🇷 France and 🇮🇹 Italy, helping companies secure their digital *Identity Fabric*.
 
 📖 **Blog & technical guides** → **[iam.fabiograsso.net](https://iam.fabiograsso.net)**
@@ -28,7 +29,6 @@ Each repo links to the full guide on the blog.
 
 [![Okta Certified Consultant](https://img.shields.io/badge/Okta-Certified%20Consultant-blue?logo=okta&logoColor=white)](https://www.credly.com/users/fabio.grasso)
 [![Okta Certified Developer](https://img.shields.io/badge/Okta-Certified%20Developer-blue?logo=okta&logoColor=white)](https://www.credly.com/users/fabio.grasso)
-[![Okta Certified Administrator](https://img.shields.io/badge/Okta-Certified%20Administrator-blue?logo=okta&logoColor=white)](https://www.credly.com/users/fabio.grasso)
 [![Okta Workflows Specialty](https://img.shields.io/badge/Okta-Workflows%20Specialty-blue?logo=okta&logoColor=white)](https://www.credly.com/users/fabio.grasso)
 [![Auth0 Certified Developer](https://img.shields.io/badge/Auth0-Certified%20Developer-orange?logo=auth0&logoColor=white)](https://www.credly.com/users/fabio.grasso)
 
